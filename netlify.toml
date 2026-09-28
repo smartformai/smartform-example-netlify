@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
+
+[context.production.environment]
+  SMARTFORM_ENDPOINT = "https://api.usesmartform.com"
+  SMARTFORM_FORM_ID   = "f_replace_me"
