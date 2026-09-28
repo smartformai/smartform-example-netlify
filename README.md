@@ -1,4 +1,4 @@
-# SmartForm + Netlify
+# Netlify contact form (Netlify Forms alternative) with AI spam filtering
 
 Two ways to add a SmartForm contact form to a Netlify-hosted site.
 
